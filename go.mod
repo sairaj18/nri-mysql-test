@@ -6,7 +6,7 @@ toolchain go1.24.4
 
 require (
 	github.com/bitly/go-simplejson v0.5.1
-	github.com/go-sql-driver/mysql v1.9.2
+	github.com/go-sql-driver/mysql v1.9.3
 	github.com/newrelic/infra-integrations-sdk/v3 v3.9.1
 	github.com/sirupsen/logrus v1.9.3
 	github.com/stretchr/testify v1.10.0
